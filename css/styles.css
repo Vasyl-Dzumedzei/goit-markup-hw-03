@@ -290,7 +290,10 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   width: 270px;
-  padding: 30px 59px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: auto;
+  padding-left: auto;
 }
 
 .employee-name {
